@@ -1,0 +1,151 @@
+@import url(//db.onlinewebfonts.com/c/bc3d686231203de67d111be6bec8ecf7?family=TT+Firs+Neue);
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+body {
+    font-family: "TT Firs Neue";
+}
+#text1 {
+    margin: 50px 175px;
+    font-size: 50px;
+    position: absolute;
+    letter-spacing: 2px;
+    font-weight: 100;
+    color:  #0c3048;
+
+}
+#text2 {
+    margin: 105px 310px; 
+    letter-spacing: 1px;
+    font-size: 40px;
+    font-weight:100;
+    position: relative;
+    color: rgb(8, 159, 229);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#D1 {
+    width: 1500px;
+    height: 680px;
+    background-color: white;
+}
+#D2 {
+    width: 400px;
+    height: 200px;
+    margin: 150px 100px;
+    background-color: white;
+    position: absolute;
+}
+#IG1 {
+    width: 150px;
+    height: 150px;
+    margin-top: 40px;
+    float: left;
+}
+#D3 {
+    width: 600px;
+    height: 200px;
+    margin: 350px 100px;
+    background-color: white;
+    position:absolute;
+}
+#text3 {
+    margin-top: 70px;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    font-family:   'Oxygen', sans-serif;
+
+    
+}
+span {
+    color: rgb(8, 159, 229);
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    text-indent: 100px;
+    margin-left: 5px;
+}
+#text4 {
+    margin-top: -20px;
+    font-size: 60px;
+    letter-spacing: 5px;
+    font-weight: 100;
+    position: absolute;
+    color:  #0c3048;
+}
+#R1{
+    height: 15px;
+    width: 680px;
+    background-color: #0c3048;
+    margin-left: 0%;
+    float: left;
+}
+#R2 {
+    height: 10px;
+    background-color: white;
+    float: left;
+    margin-left: -15px;
+    border: none;
+    width: 30px;
+    transform: rotateZ(116deg);
+}
+#R3 {
+    width: 785px;
+    height: 15px;
+    background-color:  rgb(8, 159, 229);
+    margin-left: 700px;
+    position:  relative;
+}
+#R4 {
+    margin-top: -9px;
+    border: solid;
+    border: #0c3048;
+    height: 2px;
+    width: 1486px;
+    position: absolute;
+    background-color:  #0c3048;
+}
+body {
+    margin-right: 0px;
+    margin-left: 15px;
+}
+pre {
+    font-family: "TT Firs Neue Thin";
+    padding-top: 20px;
+    font-size: 24px;
+    line-height: 35px;
+    /* font-weight: 400; */
+    color: black;
+}
+#D4 {
+    height: 690px;
+    width: 1490px;
+    height: 690px;
+    background-color:white;
+}
+#D6 {
+    width: 400px;
+    height: 75px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 75px;
+    position: absolute;
+}
+#abt {
+    letter-spacing: 9px;
+    font-size: 40px;
+    color:  #0c3048;
+}
+#D7 {
+    width: 750px;
+    margin-left: 75px;
+    height: 400px;
+    margin-top: 180px;
+    background:white;
+    position: absolute;
+}
+#R5 {
+    width: 1485px;
+    height: 5px;
+    background-color: black;
+    margin-top: 125px;
+    position: absolute;
+}
